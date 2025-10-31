@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M2",
+    "image": "https://cdn.tgdd.vn/Products/Images/44/282847/apple-macbook-air-m2-2022-01-750x500.jpg",
+    "price": 11990000,
+    "cate_id": 1,
+    "description": "Laptop mỏng nhẹ, chip Apple M2 mạnh mẽ, pin lâu."
+  },
+  {
+    "id": 2,
+    "name": "Dell XPS 13",
+    "image": "https://nhatminhlaptop.com/Upload/Editor/2022/6/14/dellxps93154-c75f.jpg",
+    "price": 9990000,
+    "cate_id": 1,
+    "description": "Ultrabook cao cấp, thiết kế sang trọng, màn hình viền mỏng."
+  },
+  {
+    "id": 3,
+    "name": "HP Spectre x360",
+    "image": "https://lapvip.vn/upload/products/original/hp-spectre-x360-14-2024-nightfall-black-1705650060.jpg",
+    "price": 10990000,
+    "cate_id": 1,
+    "description": "Laptop 2-trong-1, xoay gập linh hoạt, hiệu năng ổn định."
+  },
+  {
+    "id": 4,
+    "name": "iPhone 15",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "price": 79900000,
+    "cate_id": 2,
+    "description": "Smartphone Apple mới nhất, camera chất lượng cao."
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S23",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/264060/samsung-galaxy-s23-600x600.jpg",
+    "price": 8490000,
+    "cate_id": 2,
+    "description": "Điện thoại cao cấp, hiệu năng mạnh, màn hình AMOLED sắc nét."
+  },
+  {
+    "id": 6,
+    "name": "Google Pixel 8",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/307188/google-pixel-8-pro-600x600.jpg",
+    "price": 6990000,
+    "cate_id": 2,
+    "description": "Máy ảnh thông minh, Android gốc mượt mà, thiết kế đơn giản."
+  },
+  {
+    "id": 7,
+    "name": "iPad Pro 12.9",
+    "image": "https://product.hstatic.net/1000259254/product/ipad_pro_12.9-inch__space_grey_f4513f3cf8d041309c45c922442e28eb_master.jpg",
+    "price": 10990000,
+    "cate_id": 3,
+    "description": "Máy tính bảng mạnh mẽ, màn hình lớn, hỗ trợ Apple Pencil."
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Tab S9",
+    "image": "https://product.hstatic.net/1000300544/product/download_-_2023-07-27t182618.261_f459683499f749ffb1ba3cf4f04f6ce3.jpeg",
+    "price": 89900000,
+    "cate_id": 3,
+    "description": "Tablet cao cấp, màn hình AMOLED, hỗ trợ S Pen."
+  }
+]
